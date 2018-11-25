@@ -1,0 +1,11 @@
+#train-table th,
+td {
+  display: inline-block;
+  width: 16.575%;
+}
+
+.jumbotron{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(167, 73, 211);
+     color: white;
+}
